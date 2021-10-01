@@ -3,7 +3,7 @@ package org.nathan.javabasics;
 import java.util.Scanner;
 
 public class SummativeSums {
-    public static void main(String[] args) {//doesn't pick up the last value
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String valuesInput;
         int sum = 0;
